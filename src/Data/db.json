@@ -1,0 +1,52 @@
+{
+  "productsmatrix": [
+    {
+      "Insurancename": "Home Insurance",
+      "Productname": "ABC Land",
+      "Claimsstatus": "Good",
+      "Premium": "3000",
+      "Minmaxage": "30-40",
+      "id": 1
+    },
+    {
+      "Insurancename": "Bike Insurance",
+      "Productname": "Hero XMR",
+      "Claimsstatus": "Excellent",
+      "Premium": "2000",
+      "Minmaxage": "20-35",
+      "id": 2
+    },
+    {
+      "Insurancename": "Car Insurance",
+      "Productname": "Baleno",
+      "Claimsstatus": "Average",
+      "Premium": "3500",
+      "Minmaxage": "35-50",
+      "id": 3
+    },
+    {
+      "Insurancename": "Education Insurance",
+      "Productname": "Vidya Seva",
+      "Claimsstatus": "Good",
+      "Premium": "1500",
+      "Minmaxage": "14-25",
+      "id": 4
+    },
+    {
+      "Insurancename": "",
+      "Productname": "",
+      "Claimsstatus": "",
+      "Premium": "",
+      "Minmaxage": "",
+      "id": 5
+    },
+    {
+      "Insurancename": "Gadget Insurance",
+      "Productname": "IPhone 15 pro",
+      "Claimsstatus": "Good",
+      "Premium": "3000",
+      "Minmaxage": "25-40",
+      "id": 6
+    }
+  ]
+}
